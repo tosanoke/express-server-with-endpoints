@@ -1,0 +1,40 @@
+[
+   {
+      "id": "2856f02e-5750-44b0-9052-e5a560325bbf",
+      "createdAt": "2022-04-03T10:00:43.348Z",
+      "updatedAt": "2022-04-03T10:00:43.348Z",
+      "organization": "zelensky ",
+      "products": [
+         "front end masters",
+         "hot pizza"
+      ],
+      "marketValue": "90%",
+      "address": "sangotedo",
+      "ceo": "cn",
+      "country": "nigeria",
+      "noOfEmployees": 2,
+      "employees": [
+         "james bond",
+         "jackie chan"
+      ]
+   },
+   {
+      "id": "10b96a7b-0a4c-4931-b6dc-79fd541f2548",
+      "createdAt": "2022-04-03T10:10:10.977Z",
+      "updatedAt": "2022-04-03T10:10:10.977Z",
+      "organization": "vladimir putin",
+      "products": [
+         "front end masters",
+         "hot pizza"
+      ],
+      "marketValue": "90%",
+      "address": "sangotedo",
+      "ceo": "cn",
+      "country": "nigeria",
+      "noOfEmployees": 2,
+      "employees": [
+         "james bond",
+         "jackie chan"
+      ]
+   }
+]
